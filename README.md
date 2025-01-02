@@ -1,4 +1,5 @@
 # U.S. Automotive Price Prediction: Multiple Linear Regression
+Team: Arjun Bedi, Ben Sunshine, Carly Leong, Sai Mulagan
 
 ## Project Overview
 This project analyzes key factors influencing U.S. car prices to assist Geely Auto, a Chinese automobile company, in expanding into the U.S. market. Using a dataset from Kaggle, we apply multiple regression techniques to predict car prices based on various features like engine size, horsepower, and fuel efficiency.
